@@ -20,9 +20,9 @@
 
         <section>
             <h2>Fala comigo</h2>
-            <p>Podes entrar em contacto através do email institucional:</p>
+            <p>mbedson799@gmail.com:</p>
             <p style="margin-top: 8px;">
-                <strong>teu.numero@aluno.ipportalegre.pt</strong>
+                <strong>24866@ipportalegre.pt</strong>
             </p>
         </section>
 

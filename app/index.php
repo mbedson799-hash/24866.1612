@@ -10,7 +10,7 @@
 
     <div class="card-container">
         <header>
-            <h1>O teu Nome</h1>
+            <h1>Edson Barros</h1>
             <p class="subtitle">Estudante de CTeSP em PASSI</p>
             <nav>
                 <a href="index.php">Início</a> | 
