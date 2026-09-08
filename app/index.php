@@ -19,7 +19,7 @@
         </header>
 
         <section>
-            <h2>Sobre Mim</h2>
+            <h2>Sobre Minha pessoa</h2>
             <p>Sou estudante do CTeSP e este é o meu portfólio desenvolvido em PHP e executado em containers Docker.</p>
         </section>
 
